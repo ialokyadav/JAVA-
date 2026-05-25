@@ -1,0 +1,43 @@
+﻿IF –  Else Questions    
+1.          1. Write a program to check whether a number is negative, positive or zero
+2.  Write a program to input any alphabet and check whether it is vowel or consonant
+3. Write a program to check whether a character is uppercase or lowercase.
+4.  Write a program to input all angles of a triangle and check whether it is valid or not
+5. Write a program to input month number and print month Name
+6.  Write a program to check whether the triangle is equilateral, isosceles or scalene triangle
+7. Write a program to input marks of five subjects Physics, Chemistry, Biology, mathematics, and computer Calculate percentages and grades according to following: 
+Percentage >= 90%: Grade A
+Percentage >= 80%: Grade B
+Percentage >= 70%: Grade C
+Percentage >= 60%: Grade D
+Percentage >= 40%: Grade E     
+Percentage < 40%: Grade F
+8) If the ages of Ram, Shyam and Ajay are input through the keyboard, write a program to determine the youngest of the three
+9)  Write a Java program that accepts three numbers and checks whether all numbers are equal or not
+10)  Write a Java program to check whether the given integer is a multiple of 5
+11) Write a Java program to check whether the given integer is a multiple of 5 and 7 
+12) Write a Java program to find days in a month (Take input of Year and month number). 
+
+13) Find out the maximum of  three number take number input from user 
+14) Write a program to check whether a given character is an Alphabet or not. 
+15)  A company hires a person if 
+If person is married
+if person is unmarried, male and above 30 years of age 
+if person is unmarried , female and above 25 years of age
+16 ) You are given two integers that are the length and breadth of the rectangle. Check whether the area or perimeter is greater 
+17)  A certain grade of steel is graded according to the following conditions
+1. Hardness must be greater than 50
+2. Carbon content must be less than 0.7
+3. Tensile strength must be greater than 5600
+The grades are as follows:
+* The grade is 10 if all three conditions are met
+* The grade is 9 if conditions (i) and (ii) are met
+* The grade is 8 if conditions (ii) and (iii) are met
+* The grade is 7 if conditions (i) and (iii) are met
+* The grade is 6 if only one condition is met
+* The grade is 5 if none of the conditions are met
+Write a program, which will require the user to give values of hardness, carbon content and tensile strength of the steel under consideration and output the grade of the steel
+18) Write a Java program to create a simple calculator for calculating a two number calculations 
+Hint-> Take 2 Input of Number and one character as sign (-, +, *, /)
+19)  write a java program to find weather a number is even or odd
+20) When purchasing certain items, a discount of 10% is offered if the quantity purchased is more than 100. If quantity and price per item are input through the keyboard, write a program to calculate the total expenses
