@@ -1,0 +1,43 @@
+﻿Loop Questions 
+
+
+1. Write a program that prints all the numbers from 1 to 10 using a loop.
+
+
+2. Write a program that asks the user to enter a number and then prints all the even numbers from 0 to that number using a loop. 
+
+
+3. Write a program that prints the Fibonacci sequence up to a given number using a loop.
+
+
+4. Write a program that asks the user to enter a number and then prints the factorial of that number using a loop.
+
+
+5. Write a program that asks the user to enter a sentence and then prints the number of vowels in the sentence using a loop.
+
+
+6. Write a program that prints the multiplication table of a given number using a loop.
+7. Write a program that asks the user to enter a number and then checks whether it is a prime number using a loop.
+
+
+8. Write a programme that asks the user to enter a number and then prints all the prime numbers up to that number using a loop.
+
+
+9. Write a program that asks the user to enter a number and then prints the sum of all the digits in that number using a loop.
+
+
+10. Write a program that prints the sum of all the even numbers from 1 to 100 using a loop.
+
+
+11. Write a program that asks the user to enter a number and then prints whether it is an Armstrong number or not using a loop.
+
+
+12. Write a program that takes a number from user and prints its reverse 
+13. Write a program that asks the user to enter a string and then prints the reverse of that string using a loop.
+
+
+14. Write a program that asks the user to enter a number and then prints the sum of the digits 
+
+
+     15. Write a program to find the power of a number 
+       Take two inputs.
